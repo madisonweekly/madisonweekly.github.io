@@ -1,6 +1,6 @@
 ---
 title: Recomendaciones
-subtitle: a list of books I read
+subtitle: Musica, peliculas, libros y paginas web
 layout: "page"
 icon: fa-book
 order: 3
