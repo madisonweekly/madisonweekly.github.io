@@ -2,7 +2,7 @@
 title: Recomendaciones
 subtitle: Musica, peliculas, libros y paginas web
 layout: "page"
-icon: fa-book
+icon: fa-comments
 order: 3
 ---
 
