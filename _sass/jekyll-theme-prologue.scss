@@ -242,17 +242,18 @@
 
 		img {
 			display: block;
-			width: 100%;
+/*			width: 100%; */
+			width: 46px;
 		}
 
 		&.avatar48 {
-			width: 20px;
-			height: 20px;
+			width: 46px;
+			height: 46px;
 			background: #f00;
 
 			img {
-				width: 20px;
-				height: 20px;
+				width: 46px;
+				height: 46px;
 			}
 		}
 
