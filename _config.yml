@@ -31,10 +31,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Madison Weekly
-subtitle: El periodico escolar
+subtitle: Tu periodico escolar
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
+  Periodico escolar para niños de secundaria en MIS.
 author: Estudiantes de MIS
 email: madisonweekly.rte@gmail.com
 avatar: assets/images/6BF23031-9407-46B4-A47A-C671B8442736-1029-000001D50952E307.PNG
