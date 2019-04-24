@@ -30,7 +30,7 @@ replace="assets/$name/images"
 #change the images path
 sed -i "s:images:${replace}:g" _posts/$name.md.new
 
-#rm _posts/$name.md
+rm _posts/$name.md
 
 curt=$(date '+%F')
 
@@ -40,4 +40,4 @@ python post.py _posts/$curt-$name.md #> _posts/$curt-$name.md
 
 #rm -R articulos/$name
 
-#rm $zip
+rm $zip
