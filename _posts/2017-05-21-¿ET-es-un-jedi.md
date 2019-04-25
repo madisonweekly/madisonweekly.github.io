@@ -29,12 +29,15 @@ layout: post
 2\. Si te has dado cuenta; la forma de vestir de ET es muy similar a la de un Jedi.
 
 
+ <div class="row">
+  <div  style="float:left;width: 50%;padding: 5px;">
+	<span class="image left"><img src="{{ 'assets/¿ET-es-un-jedi/images/image5.png' | relative_url }}" alt="" /></span>
+  </div>
+  <div style="float:left;width: 50%;padding: 5px;">	
+	<span class="image left"><img src="{{ 'assets/¿ET-es-un-jedi/images/image3.png' | relative_url }}" alt="" /></span>
+  </div>
+</div> 
 
-<span class="image left"><img src="{{ 'assets/¿ET-es-un-jedi/images/image5.png' | relative_url }}" alt="" /></span>
-<span class="image left"><img src="{{ 'assets/¿ET-es-un-jedi/images/image3.png' | relative_url }}" alt="" /></span>
-
-
-<br><br><br><br><br><br><br><br><br><br>
 
 3\. El rescate de ET. Al final de la película, regresan a la tierra por ET. Ahora, podrías estar diciendo "Pero eso no tiene nada que ver", pero si lo piensas, lo pudieron haber dejado abandonado en la tierra, pero por ser una persona importante (en este caso un Jedi), volvieron por él.
 
