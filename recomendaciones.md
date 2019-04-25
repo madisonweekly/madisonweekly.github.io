@@ -22,7 +22,10 @@ descubren que tienen superpoderes y adoptan a un dinosaurio como mascota. ¿Por 
 <br> <img src="https://www.whats-on-netflix.com/wp-content/uploads/2018/12/marvels-runaways-netflix.jpg" alt="Smiley face" height="180" width="320"> 
 
 *Canciones*
-
+<audio controls>
+  <source src="assets/audio/bitch lasagna.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 *Libros*
 
 *Lugares*
