@@ -22,7 +22,7 @@ Sus películas las historias son muy bien redactadas, tan bien redactadas que no
   
 
   
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 2\.  Los reyes de «Frozen» iban a la boda de Rapunzel: No se acaban ahí las conexiones entre Frozen y Enredados, sino que muchos fanáticos de las películas de Disney consideran que los padres de Elsa y Ana en Frozen se dirigían a la boda de Rapunzel, ya que el accidente marítimo sucede tres años antes de la coronación de Elsa, a donde acude, ya casada, la joven de la larga melena mágica.      
 
 <span class="image left"><img src="{{ 'assets/Disney-y-sus-coincidencias/images/image1.gif' | relative_url }}" alt="" /></span>
@@ -38,7 +38,7 @@ Sus películas las historias son muy bien redactadas, tan bien redactadas que no
 
   
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 4\.   La Sirenita y Hércules: Ellos son primos porque Ariel es la hija de Tritón, hijo de Poseidón y hermano de Zeus que es el papá de Hércules. ¿Coincidencia?, no lo Creo.
 
@@ -51,7 +51,7 @@ Sus películas las historias son muy bien redactadas, tan bien redactadas que no
 
   
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>    
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>  
 
 Fuentes:  
 

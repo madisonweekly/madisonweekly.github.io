@@ -14,21 +14,19 @@ Debutando en 1987 como una serie de cortos en el programa El Show de Tracey Ullm
 
 1\. El nombre de los personajes  
 
-<span class="image left"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image5.gif' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image5.gif' | relative_url }}" alt="" /></span>
   
 
 El nombre de los personajes de la familia Simpson son los nombres de la familia de Matt Groening. Homero y Marge fueron los nombres verdaderos de sus padres, mientras que los nombres de Maggie, Lisa y Patty, provienen de sus hermanos. Por cierto, el nombre del abuelo Simpson, Abraham (Abe en inglés), proviene de uno de los hijos de Matt.  
 
   
 <br>
-2\. El cabello de Homero  
-
-<span class="image left"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image9.gif' | relative_url }}" alt="" /></span>
-  
-
+2\. El cabello de Homero    
 Los dos escasos cabellos que tiene Homero Simpson, forman las letras M y G, iniciales de Matt Groening.  
+<span class="image left"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image9.gif' | relative_url }}" alt="" /></span>
 
-<br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br>
 3\. La música  
 
 <span class="image left"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image6.gif' | relative_url }}" alt="" /></span>
@@ -54,7 +52,7 @@ La ciudad de Springfield, donde radica la familia, se llama así porque en Estad
 
 La revista Time nombró a la serie como el mejor programa de la televisión de la década de los noventa del siglo pasado.  
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 6\. El ¡D'oh! de Homero  
 
@@ -65,24 +63,21 @@ Una de las frases más emblemáticas de Homero, el ¡D'oh! fue agregado al Dicci
 
 
 7\. Gatos y más gatos  
-
-<span class="image left"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image8.gif' | relative_url }}" alt="" /></span>
   
 
 El personaje La Loca de los Gatos era una abogada muy importante graduada de Yale, pero comienzó a mostrar signos de alcoholismo y fue atacada por su gato favorito y varios más. Desde ese momento presenta el aspecto que tiene como una mujer con problemas mentales que se la pasa gritando y aventando gatos para todas partes. -¿Será que Groening se haya basado en Gatúbela para este personaje?-  
+<span class="image left"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image8.gif' | relative_url }}" alt="" /></span>
 
 
-
+<br><br><br><br><br><br>
 8\. Voces de personajes secundarios  
-
-<span class="image left"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image4.gif' | relative_url }}" alt="" /></span>
   
-
 El actor Hank Azaria (Ray Donovan) ha hecho la voz de varios personajes de la serie, como Apu, el cantinero Moe, El Chico de los Cómics, el Jefe Górgori, Carl -el inseparable amigo de Lenny-, y varios personajes más.  
-  
+<span class="image left"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image4.gif' | relative_url }}" alt="" /></span>
 
 
-<br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br>
 9\. Celebridades poco convencidas  
 
 <span class="image right"><img src="{{ 'assets/top-10-cosas-que-no-sabias-de-los-Simpson’s/images/image1.gif' | relative_url }}" alt="" /></span>
